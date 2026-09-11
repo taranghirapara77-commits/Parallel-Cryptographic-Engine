@@ -41,7 +41,7 @@ ExecutionVersion getUserChoice() {
     return ExecutionVersion::V1_SEQUENTIAL;
 }
 
-int main(int argc, char* argv[]) {
+int main() {
     cout << "=== File Encryption/Decryption System ===\n";
     
     // Get user inputs
